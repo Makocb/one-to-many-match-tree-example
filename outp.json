@@ -1,0 +1,10 @@
+{
+	"name": "john",
+	"Job": {
+		"state": "employed"
+	},
+	awards: [
+		"best employee of the month",
+		"best employee of the year"
+	]
+}
